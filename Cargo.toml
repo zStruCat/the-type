@@ -1,0 +1,11 @@
+[package]
+name = "the-type"
+version = "0.9.0"
+edition = "2021"
+description = "helps specifying type within the expression, i.e. type annotation or type ascription."
+license = "MIT"
+license-file = "LICENSE"
+readme = "README.md"
+repository = "https://github.com/zStruCat/the-type"
+
+[dependencies]
